@@ -1,4 +1,4 @@
-package secao06;
+package secao06.aula043;
 
 import java.util.Locale;
 import java.util.Scanner;
