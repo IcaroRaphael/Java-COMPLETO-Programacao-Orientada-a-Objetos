@@ -1,4 +1,4 @@
-package secao10.application;
+package secao10.aula086.application;
 
 public class Program {
     public static void main(String[] args) {
